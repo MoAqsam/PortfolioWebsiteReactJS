@@ -1,14 +1,14 @@
 {
-  "main.css": "/MoAqsam/PortfolioWebsiteReactJS/static/css/main.bf24878e.chunk.css",
-  "main.js": "/MoAqsam/PortfolioWebsiteReactJS/static/js/main.06325400.chunk.js",
-  "main.js.map": "/MoAqsam/PortfolioWebsiteReactJS/static/js/main.06325400.chunk.js.map",
-  "runtime~main.js": "/MoAqsam/PortfolioWebsiteReactJS/static/js/runtime~main.8577a590.js",
-  "runtime~main.js.map": "/MoAqsam/PortfolioWebsiteReactJS/static/js/runtime~main.8577a590.js.map",
-  "static/js/2.3686b1b0.chunk.js": "/MoAqsam/PortfolioWebsiteReactJS/static/js/2.3686b1b0.chunk.js",
-  "static/js/2.3686b1b0.chunk.js.map": "/MoAqsam/PortfolioWebsiteReactJS/static/js/2.3686b1b0.chunk.js.map",
-  "index.html": "/MoAqsam/PortfolioWebsiteReactJS/index.html",
-  "precache-manifest.1bb0f11a5b1416cf90c7c666b7c44443.js": "/MoAqsam/PortfolioWebsiteReactJS/precache-manifest.1bb0f11a5b1416cf90c7c666b7c44443.js",
-  "service-worker.js": "/MoAqsam/PortfolioWebsiteReactJS/service-worker.js",
-  "static/css/main.bf24878e.chunk.css.map": "/MoAqsam/PortfolioWebsiteReactJS/static/css/main.bf24878e.chunk.css.map",
-  "static/media/profile.png": "/MoAqsam/PortfolioWebsiteReactJS/static/media/profile.ba6e73be.png"
+  "main.css": "/PortfolioWebsiteReactJS/static/css/main.bf24878e.chunk.css",
+  "main.js": "/PortfolioWebsiteReactJS/static/js/main.37ce8d82.chunk.js",
+  "main.js.map": "/PortfolioWebsiteReactJS/static/js/main.37ce8d82.chunk.js.map",
+  "runtime~main.js": "/PortfolioWebsiteReactJS/static/js/runtime~main.00ee440e.js",
+  "runtime~main.js.map": "/PortfolioWebsiteReactJS/static/js/runtime~main.00ee440e.js.map",
+  "static/js/2.3686b1b0.chunk.js": "/PortfolioWebsiteReactJS/static/js/2.3686b1b0.chunk.js",
+  "static/js/2.3686b1b0.chunk.js.map": "/PortfolioWebsiteReactJS/static/js/2.3686b1b0.chunk.js.map",
+  "index.html": "/PortfolioWebsiteReactJS/index.html",
+  "precache-manifest.dc66742f3273425c7fb1738c5141202e.js": "/PortfolioWebsiteReactJS/precache-manifest.dc66742f3273425c7fb1738c5141202e.js",
+  "service-worker.js": "/PortfolioWebsiteReactJS/service-worker.js",
+  "static/css/main.bf24878e.chunk.css.map": "/PortfolioWebsiteReactJS/static/css/main.bf24878e.chunk.css.map",
+  "static/media/profile.png": "/PortfolioWebsiteReactJS/static/media/profile.ba6e73be.png"
 }
