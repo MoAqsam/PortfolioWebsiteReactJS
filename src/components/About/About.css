@@ -1,0 +1,39 @@
+.resume {
+    position: absolute;
+    left:0;
+    bottom:10;
+    
+}
+.About-container {
+    text-align: left;
+    margin: 30px 0px;
+    position: relative;
+}
+.About-container h1 {
+    text-align: left;
+}
+.About-container section {
+    width: 100%;
+}
+.About-container section p {
+    text-align: left;
+}
+.About-container .content {
+    padding-bottom: 40px;
+}
+.About-container .image-left {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.About-container img {
+    width: 50%;
+    border-radius: 60%;
+    -webkit-animation:spin 7s linear infinite;
+    -moz-animation:spin 7s linear infinite;
+    animation:spin 7s linear infinite;
+}
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }

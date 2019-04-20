@@ -1,0 +1,11 @@
+.Contact-container {
+    text-align: center;
+    background: #0288D1;
+}
+.Contact-container h2 {
+    text-align: center;
+    color:white;
+}
+.Contact-container i {
+    margin:20px;
+}

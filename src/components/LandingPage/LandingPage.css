@@ -1,0 +1,39 @@
+.LandingPage-container {
+    background: #0288D1;
+    text-align: center;
+    height: 100vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    color: white;
+}
+.LandingPage-container h1 {
+    font-weight: bold;
+}
+.LandingPage-container span {
+    font-size: 25px;
+    font-weight: 300;
+}
+.LandingPage-container .lp-btn {
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 10px 20px;
+    border: 6px solid white;
+    max-height: 400px;
+    color: white;
+    font-weight: bold;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+.LandingPage-container .lp-btn:hover {
+    background: white;
+    color: #1976D2;
+}
+
