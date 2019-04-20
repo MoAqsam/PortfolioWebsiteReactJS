@@ -1,14 +1,16 @@
 {
   "name": "portfoliowebsite",
   "version": "0.1.0",
+  "homepage": "https://github.com/MoAqsam/PortfolioWebsiteReactJS",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-anchor-link-smooth-scroll": "^1.0.11",
     "react-dom": "^16.6.3",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.1",
+    "react-scripts": "^2.1.8",
     "react-scroll-up-button": "^1.6.4",
     "react-snow-effect": "^1.2.0",
     "react-typing-animation": "^1.4.0"
@@ -18,7 +20,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy" : "git subtree push --prefix build origin gh-pages"
+    "deployToGithub": "git subtree push --prefix build origin gh-pages",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
