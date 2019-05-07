@@ -23,7 +23,6 @@ export default class About extends Component {
                                     <br/><br/>
                                     I've built a mobile app, web apps and web services through various internships/co-op placements and at a startup.
                                     <br/><br/>
-                                    I'm currently working at <a href="https://www.websitebox.com" target="_blank" rel="noopener noreferrer">WebsiteBox</a> as a Software Developer (Starting May).
                                 </span>
                             </p>
                             <p>Check out my projects below.</p>

@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
-    "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-anchor-link-smooth-scroll": "^1.0.11",
     "react-dom": "^16.6.3",
@@ -19,9 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deployToGithub": "git subtree push --prefix build origin gh-pages",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deployToGithub": "git subtree push --prefix build origin gh-pages"
   },
   "eslintConfig": {
     "extends": "react-app"
