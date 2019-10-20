@@ -20,7 +20,7 @@ export default class About extends Component {
                                     I am proficient in the MEAN(Mongo, ExpressJS, Angular, NodeJS)
                                     and MERN(MongoDB, ExpressJS, ReactJS, NodeJS) techStacks.
                                     <br/><br/>
-                                    I've built a mobile app, web apps and web services at various companies and startups.
+                                    I've built mobile apps, web apps and web services at various companies and startups .
                                     <br/><br/>
                                 </span>
                             </p>

@@ -12,8 +12,8 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
 }
 .btn {
-    background: #536DFE !important;
-    border-color: #536DFE !important;
+    background: #242582 !important;
+    border-color: #242582 !important;
 }
 .fab , .fas {
     color: white !important;
@@ -22,5 +22,5 @@ p {
     color:#757575;
 }
 a:focus{
-    outline: none;   
+    outline: none;
 }
