@@ -40,7 +40,7 @@ export default class Projects extends Component {
                 name: "Supwrap website (ReactJS)",
                 content: "Developed webapp for a startup using ReactJS and deployed on Her" +
                         "oku",
-                url: "http://www.supwrap.com",
+                url: "",
                 techStack: ["ReactJS","BootStrap","HTML(5)","CSS(3)","JQuery","Heroku"]
             }, {
                 name: "Project Management App (ReactJS)",
@@ -48,7 +48,7 @@ export default class Projects extends Component {
                 url: "https://muhammad-aqsam.herokuapp.com/",
                 techStack: ["ReactJS","BootStrap"]
             }, {
-                name: "MyApp (NodeJS)",
+                name: "Department Manager (NodeJS)",
                 content: "Created a web application using NodeJS and HandlebarsJS for managing departments" +
                         " in a company.",
                 url: "https://powerful-brushlands-37977.herokuapp.com/",
@@ -94,11 +94,13 @@ export default class Projects extends Component {
                         <div className="card-body">
                             <h5 className="card-title">{proj.name}</h5>
                             <p className="card-text">{proj.content}</p>
-                            <a
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                href={proj.url}
-                                className="btn btn-primary">Go to project</a>
+                            {
+                                proj.url.length > 0 && <a
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    href={proj.url}
+                                    className="btn btn-primary">Go to project</a>
+                            }
                             <br></br>
                             {techList}
                         </div>

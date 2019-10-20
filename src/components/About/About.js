@@ -14,7 +14,7 @@ export default class About extends Component {
                             <h1>About</h1>
                             <p>
                                 <span>
-                                    My name is Muhammad Aqsam, I am a developer based in Ontario, Canada. I build websites, mobile apps,
+                                    My name is Muhammad Aqsam, I am a developer in Canada. I build websites, mobile apps,
                                     and web services.
                                     <br/><br/>
                                     I am proficient in the MEAN(Mongo, ExpressJS, Angular, NodeJS)
