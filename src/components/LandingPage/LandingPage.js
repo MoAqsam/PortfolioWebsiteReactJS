@@ -20,7 +20,7 @@ export default class LandingPage extends Component {
                     <div className="col-md-12">
                         <Typing speed={30}>
                             <h1>Hello, I'm Muhammad Aqsam</h1>
-                            <span>up and coming Software Developer</span>
+                            <span>Full Stack Developer, JS Junky, React Wizard</span>
                         </Typing>
                     </div>
                     <div style={{
